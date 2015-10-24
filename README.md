@@ -26,7 +26,7 @@ between different views during run time as well.
 The project is built using Unity 
 Operating System :- IOS and Windows 
 
-Source code can be compiled and exicuted on unity 
+Source code can be compiled and executed on unity 
 
 Link : https://github.com/bushan1891/Sky-Dive-Simulator
 
